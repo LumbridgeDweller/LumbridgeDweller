@@ -1,5 +1,5 @@
 - Hi, I’m @LumbridgeDweller
-- Accountant by day, novice programmer by night, and Bitcoin hodler till death.
+- Accountant by day, novice programmer by night, and bitcoin hodler till death.
 - Reach me at LumbridgeDweller@protonmail.com
 
 <!---
